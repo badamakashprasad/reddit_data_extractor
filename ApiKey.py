@@ -80,9 +80,3 @@ class ApiKey:
 
 
 
-
-o = ApiKey('reddit')
-#o.putApiKey('fvvpnpautWtOjw','8kfhlBWC7kfb-oPV7olF9AMsXmw')
-#o.putApiKey('Xmm_vdEyxElYAA','Xnsi_OfZJRtWr1qfhTrXegTK8w4')
-#o.putApiKey('eVsX8DWj4ROI2g','2KeWSXUEpfKsYAlCt7KyDi1XjHA')
-#o.putApiKey('IKTHloOciMmR8g','iIAZqQ1nkD4L60Ya08Vj-4OlWls')
