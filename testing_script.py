@@ -5,8 +5,8 @@ import datetime
 
 search = lambda x, ls: [i for i, obj in enumerate(ls) if obj == x]
 
-reddit = praw.Reddit(client_id='fvvpnpautWtOjw', client_secret='8kfhlBWC7kfb-oPV7olF9AMsXmw', user_agent='data testing')
-subreddit = reddit.subreddit('bigdickproblems')
+reddit = praw.Reddit(client_id='public_key', client_secret='private_key', user_agent='data testing')
+subreddit = reddit.subreddit('all')
 
 
 """
